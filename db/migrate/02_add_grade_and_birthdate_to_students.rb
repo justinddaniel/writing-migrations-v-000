@@ -6,4 +6,3 @@ class AddGradeandBirthday < ActiveRecord::Migration
   end
 end
 
-end
